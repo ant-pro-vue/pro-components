@@ -1,12 +1,23 @@
 {
-  "name": "layout",
-  "version": "1.0.0",
+  "name": "@ant-pro-vue/pro-layout",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "vue3",
+    "ant-design",
+    "ant-design-vue",
+    "ant-pro-vue"
+  ],
+  "homepage": "https://github.com/ant-pro-vue/pro-components/tree/main/packages/layout",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ant-pro-vue/pro-components"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
